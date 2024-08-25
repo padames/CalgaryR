@@ -1,0 +1,73 @@
+---
+title: "**Be Our Speaker**"
+output: html_document
+---
+
+**CalgaryR** is looking for a **voluntary speaker** who would like to provide a tutorial, introduce an interesting problem, or build a partnership to work together.   The examples are as below:
+
+* Applications of statistical modelling, data mining, and machine learning techniques
+* Anything that R cannot do or R is not efficient on your work
+* Techniques needed for big data analysis, management, and data cleaning, etc 
+* Software engineerning needed for integrating R in other environment, objective-oriented programming, package development and documentation, debugging, and interfacing with other languages, etc. 
+* Advanced techniques in reproducible research, parallel computing, scientific computing, and operational research, etc. 
+* Viusalization method and communication 
+
+
+
+#### **Topics requested**
+
+Please contact one of organizers to request a topic.  We are searching for speakers 
+
++ Disease mapping 
++ Spatial data analysis 
++ Building a package 
++ Data management and preprocessing 
++ Outbreak detection 
++ Text-mining 
++ Time-series analysis 
++ Population size estimation 
++ Parallel computation 
++ Collaborative work using GitHub 
++ Interfacing C++ with R 
++ Machine learning topics 
+    + Decision tree 
+    + Naive Bayes 
+    + Neural network 
+    + Random Forest 
++ Social network analysis 
++ Practical implementation of model evaluation 
+    + cross-validation 
++ Predictive modeling 
+    + modern regression model techniques 
+    + logistic regression 
++ Visualization techniques 
++ Quality control 
++ Latent class or mixture modeling 
+    + model-based classification techniques 
+    + latent class model / finite mixture model
+    + latent trajectory analysis / finite regression model 
++ Sports data analysis 
++ Probability models 
++ Imaging process 
++ RNA/DNA sequence data analysis 
++ Signal analysis 
++ Agreement between two measurement systems 
++ Advanced data cleaning and management techniques 
++ R on high performance computing environment 
++ Sample size calculation 
++ Genomic data analysis 
+
+
+
+
+### **Other Communities You May Consider To Go!**   
+
+There are excellent communities in Calgary.  Please visit the following: 
+
+* [PyData Calgary](https://www.meetup.com/PyData-Calgary){target="_blank"}
+* [R-Fridays](https://github.com/montoyah/R-Fridays){target="_blank"}
+* [Artifical Intelligence Community](https://www.meetup.com/meetup-group-wmHrkGoA){target="_blank"}
+* [Data for Good Community](https://www.meetup.com/Data-for-Good-Calgary){target="_blank"}
+* [SAS Users Group](https://www.sas.com/en_ca/user-groups/csug.html){target="_blank"}
+* [Alberta Data Architecture](http://albertadataarchitecture.org/){target="_blank"}
+* [DAMA Calgary Association](http://www.dama-calgary.org/home.html){target="_blank"}

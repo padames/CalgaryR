@@ -1,0 +1,67 @@
+name: "CalgaryR"
+output_dir: "docs"
+navbar:
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Meetings"
+      menu:
+        - text: "Wishlist"
+          href: wishlist.html
+        - text: "2022"
+          href: meetings2022.html
+        - text: "2021"
+          href: meetings2021.html
+        - text: "2020"
+          href: meetings2020.html
+        - text: "2019"
+          href: meetings2019.html
+        - text: "2018"
+          href: meetings2018.html
+        - text: "2017"
+          href: meetings2017.html
+    - text: "Projects"
+      menu:
+#        - text: "Resources"
+#          href: resources.html
+#        - text: "Case Studies"
+#          href: casestudies.html
+        - text: "Workshop"
+          href: workshop.html
+#        - text: "Intake"
+#          href: intake.html
+    - text: "SIG"
+      menu:
+        - text: "R-Meds"
+          href: rmeds.html
+#         - text: "R-Geomatics"
+#           href: rgeo.html
+#         - text: "R-Energy"
+#           href: renergy.html
+        - text: "R-Omics"
+          href: romics.html
+#         - text: "R-LifeSci"
+#           href: rlifesci.html
+#         - text: "R-Economics"
+#           href: reconomics.html
+    - text: "Connect"
+      menu:
+        - text: "Fellowship"
+          href: fellowship.html
+        - text: "Companies"
+          href: careerdev.html
+    - text: "Events"
+      menu:
+        - text: "Meeting 2020"
+          href: calgaryR2020.html
+        - text: "PIMS 2018 Datathon"
+          href: pims2018datathon.html
+output:
+  html_document:
+    theme: readable # "default", "cerulean", "journal", "flatly", "readable", "spacelab", "united", "cosmo", "lumen", "paper", "sandstone", "simplex", and "yeti"
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
+
+

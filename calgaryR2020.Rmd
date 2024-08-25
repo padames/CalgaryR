@@ -1,0 +1,171 @@
+---
+title: "[CalgaryR Meeting 2020](https://www.meetup.com/calgaryr/events/269259717/){target='_blank'}"
+output: html_document
+subtitle: "~~Saturday May 16, 2020~~ from 8:00 to 17:00 at HSC Theater 3, University of Calgary"
+date: "updated on `r Sys.Date()` since 2019-04-30"
+---
+
+
+<h4>**Due the outbreak of COVID-18, the event is postponed to a later date.  We will keep you informed as soon as the new date is available.**</h4>
+
+<br>
+
+Welcome to the inaugural annual CalgaryR Meeting, hosted by the CalgaryR User Group. Join your fellow R practioners and learn how to use R over variety of disciplines within academia and industry, on May 16, 2020.
+
+This event is open to all skill levels, industries and backgrounds. We invite all those who wish to collaborate, learn and celebrate our skills and diversity.
+
+<br>
+
+### Agenda 
+
+| Time  | Description |
+|-------|----------------------------|
+| 8:30  | Registration Confirmation, Breakfast, and Networking | 
+| 8:45  | Welcoming and opening acknowledgement |
+| 9:00  | Community Award Ceremony and Student presentation | 
+| 9:30  | Workshop (Regression Diagnosis in R, by Prof. John Fox) | 
+| 12:30 | Lunch, Job Fair, Mentorship, Networking | 
+| 1:30  | Presentation (in progress) |  
+| 2:00  | Contributed Talks from Energy (in progress) | 
+| 3:00  | Contributed Talks from Health (in progress)| 
+| 4:00  | Contributed Talks from Business (in progress)| 
+| 4:30  | Closing |
+
+
+<br>
+
+
+## Call Abstracts for Contributed Talks
+
+Thank you for sharing your knowledge and moving the R community forward!
+
+We are now accepting abstract submissions for R-focused applications related to the below topics and industries. Accepted abstracts will be presented by the author at Meeting 2020, with an expected duration of 20-25 minutes in length (including a 5 minute question and answer period). It would be great if your talk belongs to one of the followings:
+
+1. Medicine, Public Health, Bioinformatics, Pharmaceutical industry  
+2. Oil and Gas, Renewable Energy, Environment 
+3. Business, Finance, Economics, Life, Social & Political Sciences 
+4. Open data analysis & software development  
+
+Please submit a title and an abstract of at most 700 words (minimal 350 word counts) by March 31, 2020, to [the organizing team via email](mailto:chelhee.lee@ucalgary.ca).  Chairs will review and notify of abstract acceptance.  Note that you are required to [register for the meeting](https://www.meetup.com/calgaryr/events/269259717/){target="_blank"} before you can submit an abstract.
+
+<br>
+
+
+## Workshop - **Regression Diagnostics in R**
+
+John Fox, Professor Emeritus, McMaster University, Hamilton, Ontario, Canada
+
+A regression model describes how the distribution of a response variable---or some characteristic of that distribution, typically its mean---changes with the values of one or more explanatory variables. Regression diagnostics are methods for determining whether a regression model that has been fit to data adequately represents the structure of the data.  For example, if the model assumes a linear (straight-line) relationship between the response and an explanatory variable, is the assumption of linearity warranted? Regression diagnostics not only reveal deficiencies in a regression model that has been fit to data but in many instances may suggest how the model can be improved.
+
+This workshop describes the implementation of common regression diagnostics in R, using functions in the basic R distribution and in the car and effects packages. Focusing initially on linear regression models fit by least-squares, I'll discuss diagnostics for unusual data, including high-leverage points, outliers, and influential cases; problems with the distribution of the response variable, including non-normality and nonconstant error variance; nonlinearity, broadly construed as lack-of-fit; and (briefly) collinearity. I'll also explain how most of these diagnostics can be extended straightforwardly to generalized linear models, such as logistic regression, and---time permitting---to linear and generalized linear mixed-effects models, and to linear models estimated by two-stage least-squares (the latter with the new ivreg package for R).
+
+Most of the material for the workshop will be drawn from J. Fox, Regression Diagnostics, Second Edition (Sage, currently in press but to be published before the date of the workshop), and J. Fox and S. Weisberg, An R Companion to Applied Regression, Third Edition (Sage, 2019).  Materials for the workshop will be made available at <tinyurl.com/Calgary-diagnostics>.
+
+<br>
+
+## Important Dates and Deadlines
+
+September 15, 2019 - Forming an organizing committee <br>
+October 15, 2019 - Formal launch of the CalgaryR 2020 meeting <br>
+February 15, 2020 - [Abstract submission started (via email)](mailto:chelhee.lee@ucalgary.ca)  <br>
+March 7, 2020 - [Registration opens via meetup](https://www.meetup.com/calgaryr/events/269259717/){target="_blank"} <br>
+April 10, 2020- Abstract submission deadline <br>
+April 15, 2020 - Notifiation of accepted abstracts <br>
+May 16, 2020 - CalgaryR Meeting 2020! <br>
+
+
+<br>
+
+## Organizing Team 
+
+* [Chel Hee Lee](mailto:chelhee.lee@ucalgary.ca)
+* [Andrey Sivyakov](mailto:asivyakov@suncor.com)
+* [Ben Reeves](mailto:breeves@viewpointgroup.ca)
+* [Jonathan Lin](mailto:hello@jonlin.ca)
+
+Special Thanks to Dr. Catherine Eastwood.
+
+<br> 
+
+## Partners & Supporters
+
+The Meeting 2020 graciously thanks all our partners and members throughout the years, for their continued support and sponsorship of the CalgaryR community.
+
+To become a partner member for the Meeting 2020, or if you would like your company to be representated at the job fair and networking session, please contact [Chel](mailto:chelhee.lee@ucalgary.ca). 
+
+<br>
+
+
+<table>
+<tr>
+<td width="350">
+<font size="4">  <b>[Department of Mathematics and Statistics | Faculty of Science | University of Calgary](http://math.ucalgary.ca/){target="_blank"}</b>  </font> 
+</td>
+<td width="400">
+[![](./img/ucchi.jpg){width=350px}](https://cumming.ucalgary.ca/centres/centre-health-informatics){target="_blank"}
+</td>
+<td width="350">
+[![](./img/RConsortium_Horizontal_Pantone.png){width=290px}](https://www.r-consortium.org/){target="_blank"}
+</td>
+</tr>
+
+
+<tr> <td> &nbsp; </td> <td> </td> <td> </td> </tr>
+
+<tr>
+<td>
+[![](./img/webhorizfulllarge.png){width=275px}](https://www.pims.math.ca/){target="_blank"}
+</td>
+<td>
+[![](./img/medlior.png){width=275px}](https://www.medlior.com/?doing_wp_cron=1580355585.6735188961029052734375){target="_blank"}
+</td>
+<td>
+[![](./img/viewpointgroup.png){width=350px}](https://www.viewpointresearch.ca/){target="_blank"}
+</td>
+</tr>
+
+<tr>
+<td>
+[![](./img/ucbc.png){width=300px}](https://obrieniph.ucalgary.ca/research/centres-programs-research-groups-and-units/biostatistics-centre-ucbc){target="_blank"}
+</td>
+<td>
+[![](./img/cybera.png){width=250px}](https://www.cybera.ca/){target="_blank"}
+</td>
+<td>
+[![](./img/sas.png){width=250px}](https://www.sas.com/en_ca/home.html#){target="_blank"}
+</td>
+</tr>
+
+<tr>
+<td>
+[![](./img/pydata.png){width=275}](https://www.meetup.com/PyData-Calgary/){target="_blank"}
+</td>
+<td>
+[![](./img/rstudio.png){width=300px}](https://rstudio.com/){target="_blank"}
+</td>
+<td>
+[![](./img/tm.png){width=300px}](https://www.teachingmedicine.com/){target="_blank"}
+</td>
+</tr>
+
+
+<tr>
+<td>
+[![](./img/bionet.jpg){width=275}](https://www.bionet-alberta.org/){target="_blank"}
+</td>
+<td>
+[![](./img/CER.png){width=450px}](https://www.cer-rec.gc.ca/index-eng.html){target="_blank"}
+</td>
+<td>
+<!-- [![](./img/tm.png){width=300px}](https://www.teachingmedicine.com/){target="_blank"} -->
+</td>
+</tr>
+
+
+
+</table>
+
+
+
+
+

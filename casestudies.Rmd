@@ -1,0 +1,46 @@
+---
+title: "**Community Projects**"
+output: html_document
+---
+
+<br>
+
+## Open Data Projects 
+
+### Data Sources 
+
+* [AESO](ets.aeso.ca){target="_blank"}
+
+* [Alberta Government Open Data](https://economicdashboard.alberta.ca/OilPrice){target="_blank"}
+
+* [Alberta Energy Regulator](https://www.aer.ca/providing-information/data-and-reports/statistical-reports){target="_blank"}
+
+* [ABMI](http://www.abmi.ca/home/data-analytics/da-top/da-product-overview){target="_blank"}
+
+* [City of Calgary - Open Calgary](https://data.calgary.ca/){target="_blank"}.  
+
+* [Calgary Civic Census](http://www.calgary.ca/CA/city-clerks/Pages/Election-and-information-services/Civic-Census/CensusResults.aspx){target="_blank"}
+
+* [Calgary Police Service Statistical Reports](http://www.calgary.ca/cps/Pages/Statistics/Calgary-Police-statistical-reports.aspx){target="_blank"}
+
+* [Data Hub from National Energy Board](https://www.neb-one.gc.ca/rsrccntr/dthb/index-eng.html){target="_blank"}
+
+* [Market Data from TMX WebStore for TSX and TSXV](https://www.tmxwebstore.com/products/#q=%7Cc=44%7Cm=%7Cpage=1){target="_blank"}
+
+
+* [MIMIC3](https://mimic.physionet.org/){target="_blank"}
+
+* [eICU Collaborative Research Database](https://eicu-crd.mit.edu/){target="_blank"}
+<br>
+
+
+
+## **Personal Projects** in progress 
+
+1. **Calgary Police Crime Statistics** - This dataset was chosen in our first meeting in 2017.  The purpose was to use it as a common source that members can practice R programming techniques.  We decided in the second meeting to use it for a community year project.  
+
+2. **Writing about cities, urban planning, mapping, data visualization & creative coding** led by [Saadiq Mohiuddin](https://saadiqm.com/){target="_blank"} 
+
+3. **A project to design and maintain a standardized, R based, slide presentation format. The project is currently based in Xaringan written by Yihui Xie at Rstudio** led by [Dylan Loader](https://github.com/DylanLoader/CalgaryR-presentation){target="_blank"}
+
+<br>

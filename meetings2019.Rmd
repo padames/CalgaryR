@@ -1,0 +1,78 @@
+---
+title: "**Meetings in 2019**"
+output: html_document
+---
+
+<br>
+#### 2019-SEP-05 [nonlinear models with R**, by chel](https://www.meetup.com/calgaryr/events/263815910/){target="_blank"}
+
++ Location: [5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary](https://cumming.ucalgary.ca/centres/centre-health-informatics/about/space){target="_blank"}
+
+<br>A nonlinear model is an important tool used to describe the complex nature of observations which are not adequately explained by a linear model in medical and bioengineering research.  The first session (40 mins) provides an introduction to the use of nonlinear models with R.  The following are considered:  1. choosing good candidate nonlinear models, 2. estimating parameters (and choice of starting values), 3. checking model assumptions, and 4. summarizing results from the model.  In the second session (30 mins), key R functions are introduced and outputs are visualized step-by-step using `nlme` package.  Extension to data with repeated measurements will be discussed if time permits.
+
+
+<br>
+
+#### 2019-SEP-18 [Event-Study Method, Similiarity, Susceptibility Ranking](https://www.meetup.com/calgaryr/events/263868941/){target="_blank"}
+
++ Location: Cenovus Odd Fellows
++ [RSVP at meetup](https://www.meetup.com/calgaryr/events/263868941/){target="_blank"}
+
++ Talk 1: **Burning out of Time: Power-Plant Decommissions and Mine Cloures in the Appalachians**, by [Reinaldo Viccini](https://www.linkedin.com/in/reinaldo-viccini-guti%C3%A8rrez-40171645?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzaorgguQRaWnPq6BuyEFLA%3D%3D){target="_blank"} <br><br> For the past 50 years, coal has been the most important fuel for electricity generation in the United States. The power sector on its own consumes 90% of all domestically mined coal and supplies 30% of the nation's energy demand. Facing serious challenges from low natural gas prices, environmental regulation and increasing operational costs, coal-fired power plants are being decommissioned at increasing rates. Similarly, since 2010, coal production has fallen by 28.5% and nearly half of the existing mines have permanently closed.   The purpose of this paper is to investigate the claim that power plant decommissions are causing closures and production declines in Appalachian mines. If decommissions are impacting mines in any way, given the regional nature of coal markets, nearby mines should be the most affected. The empirical strategy begins by testing the assumption that power plants buy local coal. I argue that observed differences in power plant efficiencies, by state and plant size, emerge as a consequence of local coal quality. Next, I estimate the correlations between aggregate electricity generation and coal consumption from nearby power plants on the mine's production (intensive margin) and probability of closure (extensive margin). Results suggest that changes in aggregate electricity generation and coal consumption from the 10 nearest plant’s have a larger impact on the local mine's intensive and extensive margin as compared to plants in further locations. Finally, using an event-study methodology, I estimate the causal effect of a decommission within the 10 nearest plants to the mine <br><br>
++ Talk 2: **Using unsupervised machine learning to tag oil and gas pressure drop methods used in commercial flow simulators**, by [Pablo Adames](https://www.linkedin.com/in/adames-pablo-87149711?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B71saROFiRceFp2frfFszXQ%3D%3D){target="_blank"}<br><br> Oil and gas engineers rely on flow simulators to design and troubleshoot pipelines, wells, and thus the facilities needed to achieve production and operation targets within the safety and economic constraints.  Commercial software simulators offer a wide choice of calculation methods for the pressure drop and liquid holdup at every point of the system, these are usually referred to as `flow correlations` for historical reasons.  The difference in the numerical results of the simulations can vary significantly as a function of the flow method selected, leaving everything else constant. 
+Unsupervised classification methods can be used to discover similarities in the results of the flow correlations available. Once the methods are tagged as belonging to a class of methods based on the similarity of the results, `a priory` knowledge can be used to assign meaning and make recommendations on the more consistent classes of methods to use in a particular production scenario. 
+For this study, Schlumberger's PIPESIM was used to assess 35 different methods on a model built from field data in the public domain, a metric was defined to assess similarity, the machine learning results were compared to the empirical knowledge, and consistent results were identified for this specific production scenario.  The processing of the text files from the simulator and the subsequent statistical analysis and visualizations were done in R and the code is presented in reproducible research format using the package `knitr` and `RStudio`.  The data and files are also available in `Github`.<br><br>
+
+
+<br>
+
+#### 2019-OCT-03 [Landscape of feature engineering and hyperparameter tuning by Dr. Alastair Muir](https://www.meetup.com/calgaryr/events/264815846/){target="_blank"}
+
++ Location: [5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary](https://cumming.ucalgary.ca/centres/centre-health-informatics/about/space){target="_blank"}
+
+
+The meeting starts by Dr. Catherine Eastwood and Dr. Muir will give a talk. Machine Learning techniques, while powerful, are very non-linear.  Configuring the problem, choosing an appropriate algorithm and reaching an optimal solution makes this a complex task.  Using an example of the calculation of NMR coupling constants, he will discuss the landscape of feature engineering and hyperparameter tuning, and maybe a bit about explainable models. You may bring your own laptop to run the code in the session.  R and Rstudio should be installed. This talk is running approximately 90 minutes. 
+
+
+<br>
+
+#### 2019-OCT-16 [Cybera’s tools&programs; application of TA&NLP; Calgary AI](){target="_blank"}
++ Location: N231, the second floor of the North Building, Bow Valley College
++ [RSVP at meetup](https://www.meetup.com/calgaryr/events/265139871/){target="_blank"}
+
++ Talk 1: Confirmed -- **Cybera's tools and programs in support of data science in Alberta** by [David Chan](https://www.linkedin.com/in/davidichan?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCd1WIB5RRCi6VVGLx1INPw%3D%3D){target="_blank"} (confirmed) <br>An overview will be provided of the tools and projects Cybera - an Alberta based not-for-profit organization - makes available to folks interested in data science, including members of the CalgaryR group. Tools include our free general purpose Infrastructure as a Service environment, which also provides access to GPU resources. Recent results and plans to support K-12, entrepreneurs, and budding data scientists in Alberta through our Callysto and Data Science for Albertans projects will also be presented. Lastly, we seek input from CalgaryR members on a tool that the team has been working on, which strives to apply best practices from the software development world to data science projects through a structured framework. This will include a brief demo and overview of a roadmap of challenges we hope to address with the tool. <br><br>
++ Talk 2: **Practical Applications of Text Analysis / Natural Language Processing** by [Naoko Tomioka](https://www.linkedin.com/in/naoko-tomioka-038108b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BoYo7F26eTFunf2Yjv%2BChMQ%3D%3D){target="_blank"}<br>The field of text analysis is constantly evolving, and new tools and algorithms become available on a regular basis. Text analytic tools and packages range from low-level processing tools, such as tokenizer and entity extraction, to higher-level processing such as sentiment analysis and text classification. The applicability of each tool depends on the type of the data to be analysed and the intended use of the output. I will talk about several of my own projects in order to illustrate the process of selecting the best tools, and what text analysis looks like in a business context. <br><br>
++ Talk 3: (Cancelled) ~~**Community Development - Calgary Artificial Intellgience Meetup** by [Drew Gilson](https://www.linkedin.com/in/drewgillson?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGHewhCPhS6CCUxkRUC9aDw%3D%3D){target="_blank"}, <br>  Drew Gillson is a technologist, entrepreneur, and community leader. In addition to organizing the Calgary Artificial Intelligence Meetup, Drew works for Looker, a data analytics software company that is being acquired by Google. Drew has been an active member of the Calgary innovation ecosystem since the dark ages of 2001. He'll share some highlights and learnings from his remarkable journey, in the hope that it will inspire you to also take the road less traveled.~~
+
+<br>
+
+#### 2019-NOV-07 [Functional Programming Techniques in R, by Dr. Matthias Kanta](https://www.meetup.com/calgaryr/events/265648330/)
+
++ Location: [5th floor, TRW buidling, 3280 Hospital Dr NW, Calgary](https://cumming.ucalgary.ca/centres/centre-health-informatics/about/space){target="_blank"}
+
+<br>
+
+This presentation will begin with a short introduction into functional programming concepts, how they differ from imperial programming and why they are important. This will be followed by a discussion of language features in R that facilitate the use of functional techniques as well as some deficiencies. Examples will be given and seasoned R users may realize that they have
+used some of these techniques all the time. Finally, functional alternatives to using R will be mentioned.
+
+
+
+
+<br>
+
+#### 2019-NOV-20 [Rig State Detection, Model Agnostic Approach, Asset Failure Susceptibility Ranking](https://www.meetup.com/calgaryr/events/265798874/){target="_blank"}
++ Location: Cenovus Odd Fellows Building 
++ [RSVP at meetup](https://www.meetup.com/calgaryr/events/265798874/){target="_blank"}
+
++ Talk 1: **Rig State Detection** by [David Shakleton](https://www.linkedin.com/in/ca-data-automation-leader?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B26ezNoGITs29XJD4cO4veA%3D%3D){target="_blank"}<br> Over the past two or three years Independent Data Services (IDS) have shifted from ‘proof of concept’ projects to global live rollouts of their "in-time" (near real-time) lean automated reporting (LAR) and drilling performance monitoring (DPM) services.  Some of our projects begin their lives in R, as RStudio and Shiny apps lend themselves beautifully to the rapid prototyping of ideas - by being able to ingest large amounts of data, and perform analytics accessed through an easily-adjustable user interface (UI).  The first step to realizing these automated reporting & analytics services in the upstream oil & gas industry is 'rig state detection' (RSD) - a process where data is taken from key sensors on the rig and run through logic-based and/or machine learning algorithms to determine what the rig, drill string, etc., are doing.  Rig states are then used to build activity descriptions for daily reporting, and generate charts and dashboards for key drilling parameters, with web-based charts and dashboards available from anywhere, any device within moments of the event.  IDS have made further strides to automate daily operational reporting by automatically ingesting pdf/Excel/WITSML/etc. data to auto-populate much of the daily report.
+<br>
+ 
+
++ Talk 2: **Model Agnostic Approach** by [Alastair Muir](https://www.linkedin.com/in/alastairkerrmuir?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTa6CM%2BqmQCqnJqVigDffeQ%3D%3D){target="_blank"}  <br> The real value of Machine Learning to businesses is when it is used to create a deep understanding of the problem. The predictive power of modern machine learning algorithms comes at the cost of decreased transparency. This is why Black Box solutions, however accurate, are not immediately accepted by themselves. You should come away from this session with a toolkit you can use to probe and understand your models. This could be for regulatory requirements, change management resistance, or just general acceptance.  We will be using a typical example of a non-linear process modeled using different traditional statistical and deep learning models. So, we are going with the "model agnostic" approach. <br>
+
+
++ Talk 3: **Asset Failure Susceptibility Ranking, using LambdaMART**, by [Busayo Akinloye](https://www.linkedin.com/in/busayo-akinloye-p-eng-7ba12028?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Brxm2AxvQT6ahGLEjD270Ww%3D%3D){target="_blank"}<br> The electric distribution system is one of the most diverse systems in the electrical grid. It consists of both overhead and underground assets. Growing power quality and reliability expectations from regulatory authorities and customers demand minimal downtime of equipment. Metrics such as System Average Interruption Frequency Index (SAIFI), and System Average Interruption Duration Index (SAIDI) are closely being monitored by electric utilities and form a major part of the business’ performance indices. These growing expectations, coupled with aging assets and budget constraints require innovative and cost-effective ways to realize actionable intelligence in order to optimize spending, while improving or maintaining the quality and reliability of the electric grid.
+Data analysis offers a unique solution that is reproducible across all asset infrastructure of an electric grid. It employs complex machine learning and statistical algorithms to extract actionable insights and learnings from historical data. These insights will help utilities better allocate both financial and human resources to the most failure susceptible assets, truly making data-driven decisions.
+I will discuss the development of an asset failure susceptibility ranking system on the Calgary area Underground Residential Distribution (URD) System. This system employs the supervised ranking system used by information retrieval systems. The framework of this ranking system can be applied to all distribution system assets (equipment), due to the reproducible nature of the statistical algorithms it employs.<br><br>
+
+

@@ -1,0 +1,47 @@
+---
+title: "**Meetings in 2024 (In-person)**"
+output: html_document
+---
+
+<br>
+
+#### 2024-SEP-24 [It's a feature, not a bug! Coercion, recycling and sub-setting](https://www.meetup.com/calgaryr/events/302449717){target="_blank"}
+
++ Speaker: [<b>Pablo Adames</b>](pablo.adames@alumni.ucalgary.ca){target="_blank"}
++ Location: Room 440A and D of the Taylor Family Digital Library, University of Calgary, 410 University Ct NW, Calgary, AB
++ Time: 6:00 pm
++ Please RSVP through Meetup
+
+\
+
+The first of two talks for this meeting is called "It's a feature, not a bug! Coercion, recycling and sub-setting". We will be digging deep to uncover some of R's superpowers and pillars of the core R syntax for expressive and powerful data manipulation and mathematics.  
+
+Summary: Neither Python nor C++ allow you to recycle vector elements the way R does. In fact, R is unique when it comes to this behaviour, thus please be warned and learn how it can be a productivity feature for expressive code that is actually missing in other computer languages. We will go over many examples of recycling with the intention to uncover the veil behind the illusion that R has scalars (it does not), and how some "vector" masks can be used to obliterate whole rows of a matrix of numbers.
+
+Strongly typed languages like R have strong guarantees to handle your data. We use numeric values like integers and floating point numbers, text, and booleans all day long. However, things can get very messy very quickly and the rules for data coercion come in very handy to settle the score and dispel the seemingly mysterious behaviour of data changing its type in front of your very own eyes. Become an insider, and add confidence and assertiveness to your data manipulation skills in R.
+
+Sub-setting with candor any data structure is a critical component of your data wrangling foo. Up your game in R for solving complex data transformation pipelines by mastering this operation and its consistent syntax in base R for vectors, lists, matrices, and data frames. 
+
+
+
+\
+
+
+
+#### 2024-Oct [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
+
+#### 2024-Nov [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
+
+#### 2024-Dec [TBA](https://www.meetup.com/calgaryr/events/){target="_blank"}
+
++ Speaker: [<b>Volunteer</b>](){target="_blank"}
++ Location: Online Event
+
